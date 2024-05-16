@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmayprofessional
-- 👀 I’m interested in javascript, javascript libraries, and object oriented programming
-- 🌱 I’m currently learning vue, react native, and node.
+- 👀 I’m interested in javascript, javascript libraries, and bleeding edge tech
+- 🌱 I’m currently learning jest with React Testing Library, studying for Security+, and focusing on React with TypeScript.
 - 💞️ I’m looking to collaborate on sports analytics applications
-- 📫 You can find me here or reach out via my linkedIn - https://www.linkedin.com/in/joshua-may-a745397a/
+- 📫 You can find me here or reach out via my linkedIn - www.linkedin.com/in/joshuamaydevelopment
 
 
